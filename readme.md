@@ -12,7 +12,7 @@ this is a tiny bool type that is only one byte.
 
 ## Usage
 
-Just include tinybool.h instead of stdbool.h
+Just include _tinybool.h_ instead of _stdbool.h_
 
 ```c
 #include <stdio.h>
